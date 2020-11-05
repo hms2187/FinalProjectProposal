@@ -1,0 +1,14 @@
+---
+title: "ProjectProposal"
+author: "Henry Stoddard, Megan Tebbenhoff, Hannah Briggs"
+date: "11/5/2020"
+output: github_document
+---
+# The group members (names and UNIs)
+# The tentative project title
+# The motivation for this project
+# The intended final products
+# The anticipated data sources
+# The planned analyses / visualizations / coding challenges
+Assoc bw freedom (overall, then subtypes of freedom) andhappiness
+# The planned timeline

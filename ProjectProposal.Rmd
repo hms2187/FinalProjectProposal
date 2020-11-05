@@ -5,10 +5,43 @@ date: "11/5/2020"
 output: github_document
 ---
 # The group members (names and UNIs)
+Henry Stoddard (hms2187)
+Megan Tebbenhoff (mt3397)
+Hannah Briggs (heb2133)
+
 # The tentative project title
+Freedom and Happiness: The Global Landscape
+
 # The motivation for this project
+With a pandemic sweeping the globe, death and depression are more present in our
+daily lives than ever. Yet, there is still reason to be happy. One commonly cited
+reason for happiness, especially in America, is freedom. This project aims to 
+describe the relationship between freedom and happiness on a global scale.
+
 # The intended final products
+The final products will include a website with a written report, a screencast, and
+several figures to portray the relationship between freedom and happiness.
+
 # The anticipated data sources
+We will use data from the Human Freedom Index from the Cato Institute and the 
+World Happiness Report produced by Jeffrey Sachs and other collaborators.
+
 # The planned analyses / visualizations / coding challenges
-Assoc bw freedom (overall, then subtypes of freedom) andhappiness
+We plan to first conduct descriptive analyses of included happiness and freedom
+variables. Then, we plan to analyze the relationship between happiness and 
+freedom, both overall and by subtypes of freedom. This analysis will be done via
+linear regression. 
+We also plan to produce visualizations of univariate statistics and maps showing
+happiness and freedom rankings by country, if possible.
+We foresee some potential challenges in merging our data and creating advanced 
+map visuals.
+
 # The planned timeline
+Submit Project Proposal - November 7th
+Dataset cleaned and Merged - November 9th
+Project Review Meeting - (ideally) November 11th
+Initial Analyses Completed - November 19th
+Extra Analyses and Initial Visualizations - Before November 28th
+Create and finish Website - by November 29th
+Create Screencast - by December 3rd
+Report Submission - December 5th
